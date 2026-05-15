@@ -1,8 +1,8 @@
-# 🛡️ SentinelAI: Universal Hybrid Anomaly Detector
+# 🛡️ Universal Hybrid Semantic Anomaly Detector
 ### *Uniting Macro-Statistical DNA with Generative Semantic Reasoning*
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
-![Gemini](https://img.shields.io/badge/Google_Gemini-1.5_Flash-orange?style=for-the-badge&logo=google-gemini)
+![Gemini](https://img.shields.io/badge/Google_Gemini-2.5_Flash-orange?style=for-the-badge&logo=google-gemini)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Latest-green?style=for-the-badge&logo=scikit-learn)
 ![Status](https://img.shields.io/badge/Status-Hackathon_Prototype-success?style=for-the-badge)
 
@@ -102,8 +102,8 @@ agent.analyze("/kaggle/input/your-dataset.csv")
 
 ## 👨‍💻 Author
 **Pawan Ranakoti **
-*Specialization in AI & ML*
+**Tamanna Bhatt **
 
 ---
-*Developed with ❤️ for the Code with Gemini Hackathon 2026.*
+*Developed for the Code with Gemini Hackathon 2026.*
 

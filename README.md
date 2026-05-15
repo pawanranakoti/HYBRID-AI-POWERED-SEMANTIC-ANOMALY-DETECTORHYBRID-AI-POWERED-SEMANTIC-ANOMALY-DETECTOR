@@ -1,5 +1,3 @@
-# HYBRID-AI-POWERED-SEMANTIC-ANOMALY-DETECTORHYBRID-AI-POWERED-SEMANTIC-ANOMALY-DETECTOR
-
 # 🛡️ SentinelAI: Universal Hybrid Anomaly Detector
 ### *Uniting Macro-Statistical DNA with Generative Semantic Reasoning*
 
@@ -29,8 +27,6 @@ Data quality is the silent killer of AI systems. Traditional anomaly detection o
 ---
 
 ## 🏗 Technical Architecture
-
-
 
 SentinelAI operates on a multi-tiered validation pipeline:
 1.  **Macro-Profiler:** Computes distribution metrics (Skewness, Kurtosis, Z-Scores) to create a "DNA Profile."
@@ -76,3 +72,38 @@ SentinelAI generates an interactive visual suite:
 ### 1. Install Dependencies
 ```bash
 pip install google-genai pandas numpy matplotlib seaborn scikit-learn
+```
+
+### 2. Run the Sentinel Agent
+```python
+from SentinelAI import ImprovedUniversalAnomalyAgent
+
+# Initialize with your API Key
+agent = ImprovedUniversalAnomalyAgent(api_key="YOUR_GEMINI_API_KEY")
+
+# Analyze via CSV path or raw string
+agent.analyze("/kaggle/input/your-dataset.csv")
+```
+
+---
+
+## 🚧 Challenges Overcome
+* **Handling Big Data:** Solved by moving from row-by-row scanning to macro-statistical profiling.
+* **JSON Parsing:** Used Gemini's native JSON mode to ensure 100% reliable integration with Python logic.
+
+---
+
+## 🗺 Future Roadmap
+- [ ] **Auto-Cleaning:** AI-generated scripts to fix the detected anomalies automatically.
+- [ ] **Streaming Support:** Real-time auditing for live API endpoints.
+- [ ] **Multi-Model Support:** Integration with Gemini 1.5 Pro for deep-dive forensic auditing.
+
+---
+
+## 👨‍💻 Author
+**Pawan Ranakoti **
+*Specialization in AI & ML*
+
+---
+*Developed with ❤️ for the Code with Gemini Hackathon 2026.*
+

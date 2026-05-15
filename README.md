@@ -1,4 +1,4 @@
-# 🛡️ Universal Hybrid Semantic Anomaly Detector
+# 🛡️ HYBRID-AI-POWERED-SEMANTIC-ANOMALY-DETECTOR
 ### *Uniting Macro-Statistical DNA with Generative Semantic Reasoning*
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
@@ -22,13 +22,13 @@
 ## 🎯 Vision & Motivation
 Data quality is the silent killer of AI systems. Traditional anomaly detection often focuses purely on mathematical outliers, missing the **"Logical Traps"**—data that looks statistically normal but is semantically impossible (e.g., a "New" car with 500,000 km, or a 25-year-old in 2nd Grade). 
 
-**SentinelAI** solves this by creating a "Statistical DNA Profile" of datasets. This allows a Large Language Model (LLM) to audit complex logic without the massive overhead of processing millions of rows individually.
+**HYBRID-AI-POWERED-SEMANTIC-ANOMALY-DETECTOR** solves this by creating a "Statistical DNA Profile" of datasets. This allows a Large Language Model (LLM) to audit complex logic without the massive overhead of processing millions of rows individually.
 
 ---
 
 ## 🏗 Technical Architecture
 
-SentinelAI operates on a multi-tiered validation pipeline:
+HYBRID-AI-POWERED-SEMANTIC-ANOMALY-DETECTOR operates on a multi-tiered validation pipeline:
 1.  **Macro-Profiler:** Computes distribution metrics (Skewness, Kurtosis, Z-Scores) to create a "DNA Profile."
 2.  **ML Engine:** Executes an `Isolation Forest` (Unsupervised ML) to identify row-level density anomalies.
 3.  **Semantic Brain:** Gemini 1.5 Flash audits the high-level distribution for logical contradictions.
@@ -44,7 +44,7 @@ We use **Interquartile Range (IQR)** and **Z-Score analysis** to find immediate 
 An **Isolation Forest** model is trained on the fly to detect multi-dimensional outliers. This handles the "Normal" anomalies like price spikes or unusual data clusters.
 
 ### 🧠 Layer 3: Semantic AI Auditor
-The **Gemini 1.5 Flash** engine performs the final logical audit. By analyzing the "DNA Profile," the AI identifies domain-specific impossibilities (e.g., biological constraints, financial contradictions) that math cannot see.
+The **Gemini 2.5 Flash** engine performs the final logical audit. By analyzing the "DNA Profile," the AI identifies domain-specific impossibilities (e.g., biological constraints, financial contradictions) that math cannot see.
 
 ---
 
@@ -96,7 +96,7 @@ agent.analyze("/kaggle/input/your-dataset.csv")
 ## 🗺 Future Roadmap
 - [ ] **Auto-Cleaning:** AI-generated scripts to fix the detected anomalies automatically.
 - [ ] **Streaming Support:** Real-time auditing for live API endpoints.
-- [ ] **Multi-Model Support:** Integration with Gemini 1.5 Pro for deep-dive forensic auditing.
+- [ ] **Multi-Model Support:** Integration with Gemini 2.5 Pro for deep-dive forensic auditing.
 
 ---
 

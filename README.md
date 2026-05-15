@@ -31,7 +31,7 @@ Data quality is the silent killer of AI systems. Traditional anomaly detection o
 HYBRID-AI-POWERED-SEMANTIC-ANOMALY-DETECTOR operates on a multi-tiered validation pipeline:
 1.  **Macro-Profiler:** Computes distribution metrics (Skewness, Kurtosis, Z-Scores) to create a "DNA Profile."
 2.  **ML Engine:** Executes an `Isolation Forest` (Unsupervised ML) to identify row-level density anomalies.
-3.  **Semantic Brain:** Gemini 1.5 Flash audits the high-level distribution for logical contradictions.
+3.  **Semantic Brain:** Gemini 2.5 Flash audits the high-level distribution for logical contradictions.
 
 ---
 
@@ -101,8 +101,8 @@ agent.analyze("/kaggle/input/your-dataset.csv")
 ---
 
 ## 👨‍💻 Author
-**Pawan Ranakoti **
-**Tamanna Bhatt **
+** Pawan Ranakoti **
+** Tamanna Bhatt **
 
 ---
 *Developed for the Code with Gemini Hackathon 2026.*

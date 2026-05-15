@@ -101,8 +101,9 @@ agent.analyze("/kaggle/input/your-dataset.csv")
 ---
 
 ## 👨‍💻 Author
-** Pawan Ranakoti **
-** Tamanna Bhatt **
+
+**Pawan Ranakoti**
+**Tamanna Bhatt**
 
 ---
 *Developed for the Code with Gemini Hackathon 2026.*

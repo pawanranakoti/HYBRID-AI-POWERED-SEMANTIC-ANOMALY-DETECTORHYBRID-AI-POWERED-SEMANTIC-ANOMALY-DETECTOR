@@ -106,5 +106,5 @@ agent.analyze("/kaggle/input/your-dataset.csv")
 **Tamanna Bhatt**
 
 ---
-*Developed for the Code with Gemini Hackathon 2026.*
+*Developed for the Gemini Hackathon 2026.*
 
